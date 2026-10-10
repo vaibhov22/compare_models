@@ -1,0 +1,159 @@
+QWEN2.5-VL OCR BENCHMARK
+Model: qwen2.5vl:3b
+PDF: your_book.pdf
+Image resolution: 150 DPI
+
+PAGE 1
+Time: 151.03s
+WER: 0.00%
+CER: 0.00%
+
+MODEL OUTPUT:
+Project Gutenberg's Alice's Adventures in Wonderland, by Lewis Carroll
+
+This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org
+
+Title: Alice's Adventures in Wonderland
+
+Author: Lewis Carroll
+
+Release Date: June 25, 2008 [EBook #11]
+[Last updated: December 20, 2011]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN WONDERLAND ***
+
+Produced by David Widger
+
+ALICE'S ADVENTURES
+IN WONDERLAND
+
+REFERENCE TEXT:
+Project Gutenberg's Alice's Adventures in Wonderland, by Lewis 
+Carroll 
+ 
+This eBook is for the use of anyone anywhere at no cost and with 
+almost no restrictions whatsoever.  You may copy it, give it away or 
+re-use it under the terms of the Project Gutenberg License included 
+with this eBook or online at www.gutenberg.org 
+ 
+ 
+Title: Alice's Adventures in Wonderland 
+ 
+Author: Lewis Carroll 
+ 
+Release Date: June 25, 2008 [EBook #11] 
+[Last updated: December 20, 2011] 
+ 
+Language: English 
+ 
+Character set encoding: ASCII 
+ 
+*** START OF THIS PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN 
+WONDERLAND *** 
+ 
+ 
+ 
+Produced by David Widger 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ALICE'S ADVENTURES 
+IN WONDERLAND
+
+PAGE 2
+Time: 173.14s
+WER: 0.00%
+CER: 0.00%
+
+MODEL OUTPUT:
+By Lewis Carroll
+
+THE MILLENNIUM FULCRUM EDITION 3.0
+
+Contents
+
+CHAPTER I. Down the Rabbit-Hole
+CHAPTER II. The Pool of Tears
+CHAPTER III. A Caucus-Race and a Long Tale
+CHAPTER IV. The Rabbit Sends in a Little Bill
+CHAPTER V. Advice from a Caterpillar
+CHAPTER VI. Pig and Pepper
+CHAPTER VII. A Mad Tea-Party
+CHAPTER VIII. The Queen's Croquet-Ground
+CHAPTER IX. The Mock Turtle's Story
+CHAPTER X. The Lobster Quadrille
+CHAPTER XI. Who Stole the Tarts?
+CHAPTER XII. Alice's Evidence
+
+CHAPTER I. Down the Rabbit-Hole
+
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book,' thought Alice 'without pictures or conversation?'
+
+So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth
+
+REFERENCE TEXT:
+By Lewis Carroll  
+ 
+THE MILLENNIUM FULCRUM EDITION 3.0  
+ 
+ 
+ 
+Contents 
+CHAPTER I.  
+Down the Rabbit-Hole  
+CHAPTER II.  
+The Pool of Tears  
+CHAPTER III.  
+A Caucus-Race and a Long Tale 
+CHAPTER IV.  
+The Rabbit Sends in a Little Bill 
+CHAPTER V.  
+Advice from a Caterpillar  
+CHAPTER VI.  
+Pig and Pepper  
+CHAPTER VII.  
+A Mad Tea-Party  
+CHAPTER VIII.   The Queen's Croquet-Ground  
+CHAPTER IX.  
+The Mock Turtle's Story  
+CHAPTER X.  
+The Lobster Quadrille  
+CHAPTER XI.  
+Who Stole the Tarts?  
+CHAPTER XII.  
+Alice's Evidence  
+ 
+ 
+ 
+ 
+ 
+CHAPTER I. Down the Rabbit-Hole  
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having 
+nothing to do: once or twice she had peeped into the book her sister was reading, but it had 
+no pictures or conversations in it, 'and what is the use of a book,' thought Alice 'without 
+pictures or conversation?'  
+So she was considering in her own mind (as well as she could, for the hot day made her 
+feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth
+
+
+AVERAGE RESULTS
+Average WER: 0.00%
+Average CER: 0.00%
+Average time per page: 162.08s

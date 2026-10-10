@@ -14,12 +14,7 @@ env/
 .env.*
 !.env.example
 
-# Benchmark outputs and generated files
-results/
-extracted_text/
 
-# Input books (may be copyrighted or large)
-books/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
