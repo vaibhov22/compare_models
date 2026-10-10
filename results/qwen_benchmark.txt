@@ -2,11 +2,16 @@ QWEN2.5-VL OCR BENCHMARK
 Model: qwen2.5vl:3b
 PDF: your_book.pdf
 Image resolution: 150 DPI
+Pages requested: 2
 
 PAGE 1
-Time: 151.03s
+Time: 144.92s
 WER: 0.00%
 CER: 0.00%
+Reference words: 99
+Output words: 99
+Reference characters: 639
+Output characters: 639
 
 MODEL OUTPUT:
 Project Gutenberg's Alice's Adventures in Wonderland, by Lewis Carroll
@@ -78,9 +83,13 @@ ALICE'S ADVENTURES
 IN WONDERLAND
 
 PAGE 2
-Time: 173.14s
+Time: 152.61s
 WER: 0.00%
 CER: 0.00%
+Reference words: 175
+Output words: 175
+Reference characters: 988
+Output characters: 988
 
 MODEL OUTPUT:
 By Lewis Carroll
@@ -156,4 +165,5 @@ feel very sleepy and stupid), whether the pleasure of making a daisy-chain would
 AVERAGE RESULTS
 Average WER: 0.00%
 Average CER: 0.00%
-Average time per page: 162.08s
+Average time per page: 148.77s
+Pages successfully tested: 2

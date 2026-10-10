@@ -5,7 +5,7 @@ Model                   Avg WER    Avg CER     Avg Time
 Tesseract OCR             1.99%      0.53%      1.13 sec
 Gemma 3 (4B)             21.95%     16.95%     61.10 sec
 MiniCPM-V (1B)          192.61%    187.21%     54.78 sec
-Qwen2.5-VL (3B)           0.00%      0.00%    162.08 sec
+Qwen2.5-VL (3B)           0.00%      0.00%    148.76 sec
 ------------------------------------------------------------
 Lowest average WER: Qwen2.5-VL (3B)
 
